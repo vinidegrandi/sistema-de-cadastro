@@ -1,9 +1,10 @@
-# Status do Projeto: Em desenvolvimento
+# Sistema de Gerenciamento de Jogos
 
-> Teste 1
+> Status do Projeto: Em desenvolvimento
+
+Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-teste
-teste
-teste
+node app.js
+
 ```
